@@ -1,3 +1,6 @@
 .DS_Store
 .jekyll-cache/
+_site/
+Gemfile.lock
+Gemfile 00.20.39.lock
 
