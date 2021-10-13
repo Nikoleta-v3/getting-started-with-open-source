@@ -9,11 +9,11 @@ the website is available online:
 https://nikoleta-v3.github.io/getting-started-with-open-source/.
 
 This workshop will teach us how to open a pull request on GitHub. **The task**
-is to add our names to the list of attendees! We can do this using many
-different tools:
+is to add our names to the list of attendees!
+
+### How To
 
 - [Add attendee using GitHub UI](HowTos/github_gui.md)
-- [Add attendee locally using terminal](HowTos/terminal.md)
 
 ### Contributions
 
