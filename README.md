@@ -1,16 +1,27 @@
-# getting-started-with-open-source [WIP]
+# getting-started-with-open-source
 
-Welcome to our GitHub repository! This repository has all the necessary files to
-create a simple website.
+Welcome to our repository! This is a repository created to run a workshop
+on "Getting started with open source". [Accompanying slides for this
+workshop](https://docs.google.com/presentation/d/15_iRdUOxXqup7INklsJse4jhy5VxpAVJENsYsW9vZ6k/edit#slide=id.gf330df5769_0_17)
 
-Check the website is available online: https://nikoleta-v3.github.io/getting-started-with-open-source/
+Here you can find all the necessary files to create a simple website. Check
+the website is available online:
+https://nikoleta-v3.github.io/getting-started-with-open-source/.
 
-[Accompanying slides for this workshop](https://docs.google.com/presentation/d/15_iRdUOxXqup7INklsJse4jhy5VxpAVJENsYsW9vZ6k/edit#slide=id.gf330df5769_0_17)
+This workshop will teach us how to open a pull request on GitHub. **The task**
+is to add our names to the list of attendees! We can do this using many
+different tools:
 
-The task: Add your name to the list of the attendees!
+- [Add attendee using GitHub UI](HowTos/Installation.md)
+- [Add attendee locally using terminal](HowTos/AddPeople.md)
+- [Add attendee using GitKraken](HowTos/AddPeople.md)
 
-## How To(s)
+### Contributions
 
-## Contributions
+All contributions are welcome! This may include communicating ideas for new
+sections, letting us know about bugs, and code contributions.
 
-## Licence
+### Licence
+
+The code in this repository, including all code samples in the notebooks listed
+above, is released under the [MIT license](LICENSE).
