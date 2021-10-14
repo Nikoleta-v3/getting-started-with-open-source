@@ -11,16 +11,16 @@ https://nikoleta-v3.github.io/getting-started-with-open-source/.
 This workshop will teach us how to open a pull request on GitHub. **The task**
 is to add our names to the list of attendees!
 
-### How To
+## How To
 
 - [Add attendee using GitHub UI](HowTos/github_gui.md)
 
-### Contributions
+## Contributions
 
 All contributions are welcome! This may include communicating ideas for new
 sections, letting us know about bugs, and code contributions.
 
-### Licence
+## Licence
 
 The code in this repository, including all code samples in the notebooks listed
 above, is released under the [MIT license](LICENSE).

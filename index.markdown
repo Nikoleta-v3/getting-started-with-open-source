@@ -34,7 +34,7 @@ Each time you make a change to the repository the website automatically changes!
 
 **How about you give it a try?** Add your name and GitHub handler to the list of
 [attendees](https://github.com/Nikoleta-v3/getting-started-with-open-source/tree/gh-pages/_data/attendees)
-and open a pull request. Once your pull request has been accepted refresh this
+and open a pull request. Once your pull request has been accepted, refresh this
 page to see your name!
 
 # Attendees
