@@ -17,14 +17,11 @@ When we do this we are forward to a new page which looks like:
 
 Here we need to give the name and location of your new file. Remember we want the file to be in the folder `_data/attendees/`. Then we just need a name for our `.yml` name. How about using your last name(s)?
 
-In the file we will to include our name and we will also include our GitHub handler in case people want to collaborate with us in the future! Under `Edit new file` add the following lines:
+In the file we will to include our name and we will also include our GitHub handle (user name) in case people want to collaborate with us in the future! Under `Edit new file` add the following lines:
 
 ```shell
 - name: Name Surname
-    github: handler
-```
-
-where you change `Name`, `Surname` and `handler`.
+    github: handle
 
 Once we have added the necessary information for our file it's time to `commit` it. Scroll down and there you will see a panel that looks like this:
 
