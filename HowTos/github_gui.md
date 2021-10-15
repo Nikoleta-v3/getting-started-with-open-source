@@ -22,6 +22,7 @@ In the file we will to include our name and we will also include our GitHub hand
 ```shell
 - name: Name Surname
     github: handle
+```
 
 Once we have added the necessary information for our file it's time to `commit` it. Scroll down and there you will see a panel that looks like this:
 
