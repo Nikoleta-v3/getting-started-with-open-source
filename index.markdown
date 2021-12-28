@@ -12,7 +12,7 @@ a team of passionate people contributing to open source projects.
 {% assign people = people_hash[1] %}
   {% for person in people %}
 <li>
-    <a href="https://github.com/{{ member.github }}">
+    <a href="https://github.com/{{ person.github }}">
       {{ person.name }}
     </a>
 </li>
@@ -44,7 +44,7 @@ page to see your name!
 {% assign people = people_hash[1] %}
   {% for person in people %}
 <li>
-    <a href="https://github.com/{{ member.github }}">
+    <a href="https://github.com/{{ person.github }}">
       {{ person.name }}
     </a>
 </li>
